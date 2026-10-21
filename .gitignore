@@ -1,0 +1,8 @@
+# Lokala inställningar med hemligheter
+**/appsettings.json
+
+# Byggfiler
+**/bin/
+**/obj/
+.vs/
+**/publish/
